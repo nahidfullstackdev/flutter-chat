@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712752757972",
+    "project_id": "konektchat",
+    "storage_bucket": "konektchat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712752757972:android:56c4675406d7ca4ce14f41",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnl0zktR8H7auddWKH9SyfNLg0gPGJF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
