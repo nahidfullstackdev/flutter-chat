@@ -29,8 +29,9 @@ A real-time messaging application built with Flutter and Firebase, enabling seam
 
 
 ## Screenshots
+![chatappss](https://github.com/user-attachments/assets/1d20c1b5-b150-43c3-b373-29d642b0372f)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 
 
 ## Installation
